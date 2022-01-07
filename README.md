@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a web developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily **php**,**laravel**,**css**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
 🌆 Daytime    111 commits    ███████░░░░░░░░░░░░░░░░░░   30.66% 
-🌃 Evening    178 commits    ████████████░░░░░░░░░░░░░   49.17% 
+🌃 Evening    178 commits    ███████████░░░░░░░░░░░░░   49.17% 
 🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5%
 
 ```
