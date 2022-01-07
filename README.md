@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
+- 🏦 I'm a web developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.java**, **.py**, **.js**, **.sql**
-- 📖 I am currently reading **The Psychology of Money** by Morgan Housel
+- 💻 I use daily **php**,**laravel**,**css**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
@@ -83,20 +82,7 @@ Sunday       91 commits     ██████░░░░░░░░░░░�
 
 ⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.09 % as on ⏰ 12-Oct-2021
 
----
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips & Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets (Part - 2)](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
